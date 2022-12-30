@@ -20,7 +20,7 @@
     "babel-register": "^6.11.6",
     "coffeescript": "^2.4.1",
     "install": "^0.13.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nodemon": "^1.10.0"
   }
 }
